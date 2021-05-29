@@ -6,8 +6,8 @@
 * Do add API-key in Constants.java from [News API](https://newsapi.org/)
 
 # Images
-* ![Sample 1](/images/s1.png)
-* ![Sample 2](/images/s2.png)
-* ![Sample 3](/images/s3.png)
-* ![Sample 4](/images/s4.png)
-* ![Sample 5](/images/s5.png)
+<img src="/images/s1.png" width="360" height="760">
+<img src="/images/s2.png" width="360" height="760">
+<img src="/images/s3.png" width="360" height="760">
+<img src="/images/s4.png" width="360" height="760">
+<img src="/images/s5.png" width="360" height="760">
